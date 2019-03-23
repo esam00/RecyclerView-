@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="long_text">Through a series of daring escapades deep within a dark and dangerous
+        criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the
+        notorious gambler Lando Calrissian.Through a series of daring escapades deep within a dark
+        and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and
+        encounters the notorious gambler Lando Calrissian.</string>
+
+    <string name="expand">view more</string>
+    <string name="collapse">collapse</string>
+</resources>
